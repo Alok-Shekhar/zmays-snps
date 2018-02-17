@@ -1,7 +1,5 @@
 Zea Mays SNP Calling Project
-project started 2018-02-14
+Project started 2013-01-03
 Samples expected from sequencing core 2013-01-10
-\n\nMaize reference genome version:refgen3
-On branch master
-nothing to commit, working directory clean
-We downloaded refgen3 on 2013-01-17.
+We downloaded the B73 reference genome (refgen3) on 2013-01-04 from
+http://maizegdb.org into `/share/data/refgen3/`.
